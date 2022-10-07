@@ -1,0 +1,15 @@
+Agenda for 7th october 
+
+1 table 
+2 header 
+3 footer
+4 section
+5 nav
+6 SE0 
+7 title
+
+
+SEO =>search engine Optimization
+
+Encoding =>set of characters which your computer can use 
+https://github.com/dheerajsk/kh-sep-front-end
