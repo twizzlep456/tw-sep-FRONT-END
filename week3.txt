@@ -1,0 +1,14 @@
+
+
+GOAL => Full satck developer
+
+path=>
+
+i.undeerstanding Fundamentals - DONE 
+2.Html - Done 
+3.CSS
+4.java script 
+5. ReactJS. =>start prjrct based learning 
+ => here front end completes
+ 6.NodeJS/ExpressJS.
+ 7.MongoDB.

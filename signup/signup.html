@@ -1,19 +1,49 @@
 <html>
      
  <head>
+      <link rel="stylesheet" href="signup.css">
+      <style>
+          /* / block based on id selector 
+          #formContainer{
+              background-color:yellow ;
+          } */
+
+          /* h3{
+            color: green;
+          }
+
+          span{
+             color: blue;
+          } */
+
+          /* .text-wrapper {
+            / Border:width, px=>pixels,type of border=>solid,color of border 
+            border: 1px solid green;
+          }
+
+          * {
+            / this is lowest priority */
+            /* color: darkgoldenrod;
+          }  */
+
+      </style>
 
  </head>
 
    <body>
 
-       <h1>please sign up</h1>
-       <!-- <h2>please sign up</h2>
+       <h1>You need to please sign up</h1>
        <h3>please sign up</h3>
+       <!-- <h2>please sign up</h2>
+       
+         
        <h4>please sign up</h4>
        <h5>please sign up</h5> -->
        <!-- div is a bigger container than form and used to design, designs are put in divs -->
        <!-- form is used to submit events to the server -->
-      <div>
+       <!-- style attibute applies inline CSS -->
+       <!-- CSS SYNTAX => cssprperty:value -->
+      <div id="formContainer">
        <form>
           <label>Enter Your Name</label>
           <input type="text" />
@@ -55,10 +85,29 @@
           <button type="reset">clear</button>
           
 
-
+          
 
        </form>
       </div> 
+       <div>
+          something  else
+       </div>
+       <span>
+         this is span 1
+       </span>
+       <span>
+         this is span 2
+       </span>
+       <span class="text-wrapper">
+         this is span 3
+      
+       </span>
+
+       <div class="text-wrapper">
+         another div
+       </div>
+           
+           <h3>here ends the form</h3>
    </body>
 
 

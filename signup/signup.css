@@ -1,0 +1,24 @@
+
+
+     /* block based on id selector  */
+          #formContainer{
+              background-color:yellow ;
+          } 
+          /* tag selector */
+           h3{
+            color: green;
+          }
+
+          span{
+             color: blue;
+          } 
+           /* class selector */
+           .text-wrapper {
+             /* Border:width, px=>pixels,type of border=>solid,color of border  */
+            border: 1px solid green;
+          }
+           /* * selector css */
+          * {
+             /* this is lowest priority  */
+             color: darkgoldenrod;
+          }  

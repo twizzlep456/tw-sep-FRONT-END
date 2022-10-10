@@ -1,0 +1,33 @@
+
+
+
+HTML +> to create rwa contrls
+CSS => to design the cotrols and apply designs 
+
+types of CSS
+
+1.inline
+=> it is written inline along with html codes as html attribute
+=> not good practice , code readerbillity wld be low
+ no need for selectors 
+2.internal 
+=>still part of html file
+=>not a good practice
+3.extnal.
+
+
+
+
+CSS selectors 
+=> they help you select emelemts wr CSS styles need to be applied
+
+I.D 
+=>apply unique styles , can be only applied to one control
+
+,tag
+
+, class
+ => a custom CSS configuration to apply on diff elements
+
+ ,*
+ =>is is going to apply elements in youe page
