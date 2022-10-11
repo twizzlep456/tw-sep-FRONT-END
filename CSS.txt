@@ -14,7 +14,7 @@ types of CSS
 =>still part of html file
 =>not a good practice
 3.extnal.
-
+=> good practice
 
 
 
