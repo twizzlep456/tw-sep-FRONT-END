@@ -1,0 +1,18 @@
+
+.main{
+    height: 500px;
+    background-color: brown;
+    /* flex container */
+    display: flex;
+    /* move elemnts on x-aaxis(main axis)  */
+    justify-content:space-around ;
+     /* y-axis or corss axis */
+    align-items:center ;
+}
+
+.child{
+    color:black;
+    font-size: larger;
+    background-color: white;
+   
+}

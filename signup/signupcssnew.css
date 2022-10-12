@@ -1,3 +1,30 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+
+.search{
+    height: 30px;
+    width: 260px;
+    border: ipx solid lightblue;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+a{
+    text-decoration: none;
+    color: darkslateblue;
+    font: large;
+}
+
+nav{
+    background-color: darkorange;
+    padding: 6px;
+}
 
 .container{
     display: flex;
