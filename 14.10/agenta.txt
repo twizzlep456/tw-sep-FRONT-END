@@ -9,3 +9,14 @@ Framrwork,=>Library+structure+workspace+patterns
 
 Bootstrap 
 => library for css
+
+requirment
+
+Desktop
+3Colums
+  Img
+  Signin
+  Signup
+
+Mobile
+1 Column
